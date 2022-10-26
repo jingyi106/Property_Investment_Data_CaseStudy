@@ -4,4 +4,4 @@ Write-up: [Property Investment_Jingyi Ran.pdf](https://github.com/jingyi106/Prop
 
 Notebook: [Property Investment.ipynb](https://github.com/jingyi106/Property_Investment_Data_CaseStudy/blob/main/Property%20Investment.ipynb)
 
-One interactive visualization link: [visualization](/Visualization.md)
+One interactive visualization link: [visualization]([/Visualization.md](https://jingyi106.github.io/Property_Investment_Data_CaseStudy/Visualization.html))
